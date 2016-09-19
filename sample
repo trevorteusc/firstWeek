@@ -1,0 +1,19 @@
+
+<html>
+	<head>
+		<title>First Week (With Image Added)</title>
+	</head>
+	<body>
+		<h1 align="center"><font face="Tahoma, Verdana, Helvetica, Arial, sans-serif"><font color="darkblue">My First Week of School</font></font></h1>
+		<table width="700" align="center" border="1" cellpadding="10" cellspacing="0" bordercolor="#ff0000">
+			<tr bgcolor="lightgray">
+				<th align="center" valign="middle" width="50%"><font face="Tahoma, Verdana, Helvetica, Arial, sans-serif"><font color="darkgreen">Like</font></font><br /><img src="images/smile.png" width="20" /></th>
+				<th align="center" valign="middle" width="50%"><font face="Tahoma, Verdana, Helvetica, Arial, sans-serif"><font color="darkgreen">Dislike</font></font><br /><img src="images/frown.png" width="20" /></th>
+			</tr>
+			<tr>
+				<td align="left" valign="top">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus et dictum turpis. Morbi scelerisque porttitor mollis. Sed blandit pharetra tortor, sed tincidunt turpis pharetra in. In ut scelerisque magna, quis dictum neque. Nunc accumsan magna et aliquam tristique. Nunc aliquam mollis neque, vel convallis nisi molestie a. Nunc iaculis id sem ut blandit. Sed quis interdum erat. Suspendisse hendrerit ipsum a nisl sagittis, non gravida nisi rutrum. Cras aliquam lorem nec dolor porta, in pulvinar quam dignissim.</td>
+				<td align="left" valign="top">In hac habitasse platea dictumst. Morbi maximus pellentesque risus, sed cursus tellus. Mauris vitae lorem ut tortor malesuada imperdiet sit amet vitae neque. Proin accumsan, enim quis sollicitudin sagittis, augue sapien hendrerit leo, ac porttitor quam ante et arcu. Praesent nec nunc vitae mauris finibus ultricies quis vel leo. Praesent facilisis at nunc sit amet auctor. Phasellus at est vitae nibh aliquam suscipit. Sed egestas ipsum eu mauris rhoncus, et placerat odio tincidunt.</td>
+			</tr>
+		</table>
+	</body>
+</html>
